@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # InvitationApps-UI-Flutter
-=======
-# my_work
 
 A new Flutter project.
 
